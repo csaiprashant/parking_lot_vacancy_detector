@@ -5,7 +5,7 @@ A public infrastructure has various parking lots which get completely occupied v
 To acheive this, we need to train a classifier that can detect cars. In this project we train two such cascade classifiers - one using HAAR features and the other using LBP features. The project goes into great detail on how to generate positive training examples by parsing the surveillance camera images and their respective ground truth files. We use OpenCV's [Cascade Classifier Training](https://docs.opencv.org/2.4/doc/user_guide/ug_traincascade.html) utilities to train our cascade classifier. Finally we measure the accuracy of our classifier against the ground truth.
 
 ## Example
-![Sample Example](https://github.com/csaiprashant/face_detection_cnn/blob/master/examples/d.png)
+![Sample Example](https://github.com/csaiprashant/parking_lot_vacancy_detector/blob/master/example.png)
 ## Files in this Repository
 - haar10kcascade.xml - The HAAR cascade classifier.
 - haar10000.txt - Console output of training a HAAR cascade classifier using 10000 positive examples.
