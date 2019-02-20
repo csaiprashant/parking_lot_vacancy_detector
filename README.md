@@ -15,4 +15,4 @@ To acheive this, we need to train a classifier that can detect cars. In this pro
 - projectreport.pdf - Project Report.
 - test_model.py - Python script to apply trained classifier to an image and measure its accuracy and F-score.
 
-### For full report, please refer [Project Report](https://github.com/csaiprashant/academic_projects/blob/master/Parking%20Lot%20Vacancy%20Detector/projectreport.pdf)
+### For full report, please refer [Project Report](https://github.com/csaiprashant/parking_lot_vacancy_detector/blob/master/projectreport.pdf)
